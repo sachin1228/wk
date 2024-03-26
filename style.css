@@ -1,10 +1,10 @@
 @media only screen {
   body {
-    background-color: #f8fafc;
+    background-color: #f9fafb;
   }
   main {
     border: 1px solid #cbd5e1;
-    max-width: 1380px;
+    max-width: 1200px;
     margin: 60px auto;
     background-color: #fff;
   }
